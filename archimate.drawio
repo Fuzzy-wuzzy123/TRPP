@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Страница — 1" id="quy6FabhEdVLUosBJ1cG">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-1" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="1075" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-2" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="194" y="490" width="1075" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-3" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="1150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-4" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-5" target="Cl_bud7vVA02_AtHJlxr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-5" value="Система ведения &#xa;отчетности" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="425" y="511" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-6" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.5" y="510" as="sourcePoint" />
+            <mxPoint x="629.5" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-7" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=open;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1062.5" y="436.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-8" value="Реестр автомобилей" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="970" y="510" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-9" value="Аренда автомобиля" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-10" value="Technology" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="751" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-11" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="541" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-12" value="Business" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="389" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-14" value="Клиент" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-16" value="" style="html=1;endArrow=diamondThin;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=oval;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-14" target="Cl_bud7vVA02_AtHJlxr-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="225" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-17" value="Прием авто" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="554.5" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-18" value="Каталог автомобилей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="750" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-20" value="" style="html=1;endArrow=diamondThin;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=oval;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-48">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="960" y="250" as="sourcePoint" />
+            <mxPoint x="1062.5" y="361.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-21" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=netw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="430" y="690" width="680" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-22" value="База данных счетов, договоров, анкет" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="450" y="710" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-23" value="База данных доступных авто" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=sysSw;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="940" y="710" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-24" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="710" as="sourcePoint" />
+            <mxPoint x="670" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-25" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1010" y="710" as="sourcePoint" />
+            <mxPoint x="1170" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-26" value="Счёт" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.artifact;" vertex="1" parent="1">
+          <mxGeometry x="240" y="707" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-27" value="Договор аренды" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.artifact;" vertex="1" parent="1">
+          <mxGeometry x="240" y="850" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-28" value="Анкета клиента" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.artifact;" vertex="1" parent="1">
+          <mxGeometry x="400" y="850" width="50" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-29" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;dashed=1;startFill=0;dashPattern=1 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="600" y="750" as="sourcePoint" />
+            <mxPoint x="760" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-30" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="750" as="sourcePoint" />
+            <mxPoint x="450" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-31" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="850" as="sourcePoint" />
+            <mxPoint x="420" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-32" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="850" as="sourcePoint" />
+            <mxPoint x="580" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-34" value="Автомобили в наличии" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=equipment;" vertex="1" parent="1">
+          <mxGeometry x="941" y="850" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-35" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-23" source="Cl_bud7vVA02_AtHJlxr-34">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="970" y="850" as="sourcePoint" />
+            <mxPoint x="1130" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-37" value="Автомобили" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.representation;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-38" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;entryX=0.5;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Cl_bud7vVA02_AtHJlxr-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="sourcePoint" />
+            <mxPoint x="980" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-39" value="Учет автомобилей" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=collab;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="695" y="514" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-40" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="610" y="550" as="sourcePoint" />
+            <mxPoint x="700" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-41" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;dashPattern=1 4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.108;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-8" target="Cl_bud7vVA02_AtHJlxr-39">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="910" y="550" as="sourcePoint" />
+            <mxPoint x="1070" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-42" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="770" y="510" as="sourcePoint" />
+            <mxPoint x="830" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-43" value="Информация о наличии авто" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="988" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-45" value="" style="html=1;endArrow=diamondThin;endFill=1;edgeStyle=elbowEdgeStyle;elbow=vertical;endSize=10;startArrow=oval;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Cl_bud7vVA02_AtHJlxr-47" target="Cl_bud7vVA02_AtHJlxr-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="250" as="sourcePoint" />
+            <mxPoint x="630" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="484.5" y="323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-47" value="Механик" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="149" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl_bud7vVA02_AtHJlxr-48" value="Сотрудник лизинга" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=actor;archiType=square;" vertex="1" parent="1">
+          <mxGeometry x="880" y="149" width="150" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
